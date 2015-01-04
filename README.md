@@ -1,4 +1,4 @@
-Gisgraphy-JS-API
+Gisgraphy-JS-API / Leaflet plugins
 ----------------
 
 The Gisgraphy JS API is a javascript  library that allow you to build search box (aka : input text) for geocoding and reverse geocoding with autocompletion / autosuggestions
@@ -7,6 +7,7 @@ Table of Contents
 -----------------
 
 * [Demo](#Demo)
+* [Leaflet Plugin](#LeafletPlugins)
 * [Features](#Features)
 * [Documentation](#Documentation)
 * [Who I am](#whoIam)
@@ -14,6 +15,20 @@ Table of Contents
 Demo
 --------
 Try this [demo](http://services.gisgraphy.com/static/leaflet/jsapi.html)
+
+#Leaflet Plugins #
+[Demo](http://services.gisgraphy.com/static/leaflet/index.html) with the two plugins on a map.
+
+**Geocoding** : It allows to
+                add a geocoding to add a geocoding input with autocompletion on a leaflet map. It wraps the [Gisgraphy js API.](http://www.gisgraphy.com/leaflet.htm#jsapi)
+
+[Learn More](http://www.gisgraphy.com/leaflet.htm) | [View demo](http://services.gisgraphy.com/static/leaflet/gisgraphy-geocoder-leaflet-demo.html) | [Documentation](https://github.com/gisgraphy/gisgraphy-leaflet-plugin/blob/master/leaflet/doc.md)
+
+**Reverse geocoding** :
+                It reverse geocode when you rightclick on the map. it is a sample and you can personalize it.
+
+[Learn More](http://www.gisgraphy.com/leaflet.htm) | [View demo](http://services.gisgraphy.com/static/leaflet/gisgraphy-reverse-geocoder-leaflet-demo.html) | [Documentation](https://github.com/gisgraphy/gisgraphy-leaflet-plugin/blob/master/leaflet/doc.md)
+             
 
 Features
 --------
@@ -34,5 +49,5 @@ Documentation
 --------
 [documentation] (https://github.com/gisgraphy/gisgraphy-leaflet-plugin/blob/master/leaflet/doc.md)
 
-## who I am ?##
+## who I am ##
 My name is David Masclet, I have developed Gisgraphy since 2006, My goal is to provide a realistic alternative for geocoding and geolocalisation. Feel free to contact me at davidmasclet[at]gisgraphy.com.

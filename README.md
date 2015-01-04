@@ -50,8 +50,5 @@ Try this [demo](http://services.gisgraphy.com/static/leaflet/jsapi.html)
 [documentation] (https://github.com/gisgraphy/gisgraphy-leaflet-plugin/blob/master/leaflet/doc.md)
 
 # who I am #
-<<<<<<< HEAD
+
 My name is David Masclet, I have developed Gisgraphy since 2006, My goal is to provide a realistic alternative for geocoding and geolocalisation. Feel free to contact me at davidmasclet[at]gisgraphy.com.
-=======
-My name is David Masclet, I have developed Gisgraphy since 2006, My goal is to provide a realistic alternative for geocoding and geolocalisation. Feel free to contact me at davidmasclet[at]gisgraphy.com.
->>>>>>> refs/remotes/master/master

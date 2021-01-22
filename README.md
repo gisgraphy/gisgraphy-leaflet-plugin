@@ -14,7 +14,7 @@ Table of Contents
 
 # Demo #
 --------
-Try this [demo](http://services.gisgraphy.com/static/leaflet/jsapi.html)
+Try this [demo](https://services.gisgraphy.com/static/leaflet/gisgraphy-js-api-demo.html)
 
 # Leaflet Plugins #
 [Demo](http://services.gisgraphy.com/static/leaflet/index.html) with the two plugins on a map.
